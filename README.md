@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Joon: Roon theme for Jekyll
 
 Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
@@ -31,3 +32,7 @@ For more on Jekyll, read the [documentation](http://jekyllrb.com/)
 
 Roon is Copyright (c) 2013-2015 Sam Soffes & Ghost Foundation - Released under 
 the [MIT license](LICENSE).
+=======
+# buildIT
+Build IT
+>>>>>>> 99298ac3e029e2e846b73ad9ceeef9e0ee1571a3
