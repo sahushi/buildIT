@@ -4,8 +4,8 @@ logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Be The Best Version Of Yourself!
-url: "http://vormwald.github.io" # the base hostname & protocol for your site
-baseurl: "/joon" # the subpath of your site, e.g. /blog/
+url: "http://sahushi.github.io/buildIT/" # the base hostname & protocol for your site
+baseurl: "/buildIT" # the subpath of your site, e.g. /blog/
 twitter_username: jekyllrb
 github_username:  jekyll
 
