@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Don't Work For Money: Make Money Work For You!"
+title:  "Get The Cheapest Life Insurance"
 ---
 
 As we get older we start taking life insurance more seriously. Life insurance starts when we are younger. The younger you are the cheaper life insurance gets. Here is a list of what to do to ensure a long life:
