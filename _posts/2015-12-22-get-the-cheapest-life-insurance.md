@@ -13,6 +13,7 @@ As we get older we start taking life insurance more seriously. Life insurance st
 You should already know that if you are working as an employee then you are already contributing to your life insurance part of your salary.
 
 The cost of life insurance is based on your rating. Here are the main things:
+
 *	Age: The older you are, the more you will pay for your life insurance.
 *	Health History: Based on your medical history records
 *	Lifestyre: This basically has to do with the way you choose to live your life for example dangerous hobbies you do like skydiving or scuba diving
@@ -21,6 +22,7 @@ It may sometimes be cheaper for people over 50 to find permanent life insurance.
 Whole life: Whole life placed a lot of the financial risk on the insurance company and so this type is less available now. A disadvantage of whole life is that the costs for administration were not transparent.
 
 Universal life: This type of insurance has generally replaced most Whole Life policies. Some Universal Life policies build cash value, but others like Guaranteed Premium Universal Life do not. Universal Life Insurance has some advantages over Whole Life Insurance even though it is more expensive. Here are the advantages:
+
 *	Paying Estate taxes.
 *	Taking Care of children special needs.
 *	Providing for needs for a family business.
